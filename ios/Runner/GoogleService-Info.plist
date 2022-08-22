@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1072996891608-db17oh4rs8tkvtb5ac94mkb90eri46a9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1072996891608-db17oh4rs8tkvtb5ac94mkb90eri46a9</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1072996891608-0vmeqdqbaergt9ad4bf5mmsujfin901t.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBbK-4lcyVng-YUiwQJ3r4hgS1gvLxou84</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1072996891608</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.whatsapp</string>
+	<key>PROJECT_ID</key>
+	<string>noble-kingdom-318209</string>
+	<key>STORAGE_BUCKET</key>
+	<string>noble-kingdom-318209.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1072996891608:ios:e8c3aae3e5087669f690ad</string>
+</dict>
+</plist>

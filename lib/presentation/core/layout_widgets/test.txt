@@ -1,0 +1,61 @@
+ Container(
+              decoration: BoxDecoration(
+                shape: BoxShape.circle,
+                color: widget.color == 'Colors.red'
+                    ? Colors.red.withOpacity(.2)
+                    : widget.color == 'Colors.blue'
+                        ? Colors.blue.withOpacity(.2)
+                        : widget.color == 'Colors.green'
+                            ? Colors.green.withOpacity(.2)
+                            : widget.color == 'Colors.yellow'
+                                ? Colors.yellow.withOpacity(.2)
+                                : widget.color == 'Colors.orange'
+                                    ? Colors.orange.withOpacity(.2)
+                                    : widget.color == 'Colors.lightGreen'
+                                        ? Colors.lightGreen.withOpacity(.2)
+                                        : widget.color == 'Colors.pinkAccent'
+                                            ? Colors.pinkAccent.withOpacity(.2)
+                                            : widget.color == 'Colors.cyan'
+                                                ? Colors.cyan.withOpacity(.2)
+                                                : widget.color ==
+                                                        'Colors.purple'
+                                                    ? Colors.purple
+                                                        .withOpacity(.2)
+                                                    : Colors.black
+                                                        .withOpacity(.2),
+                // border: Border.all(
+                //   color: colors[index],
+                // ),
+              ),
+              alignment: Alignment.center,
+              width: 50,
+              height: 50,
+              padding: const EdgeInsets.all(10),
+              child: Text(
+                HelperFunctions.getNameInitials(widget.name).toUpperCase(),
+                style: TextStyle(
+                  color: widget.color == 'Colors.red'
+                      ? Colors.red
+                      : widget.color == 'Colors.blue'
+                          ? Colors.blue
+                          : widget.color == 'Colors.green'
+                              ? Colors.green
+                              : widget.color == 'Colors.yellow'
+                                  ? Colors.yellow
+                                  : widget.color == 'Colors.orange'
+                                      ? Colors.orange
+                                      : widget.color == 'Colors.lightGreen'
+                                          ? Colors.lightGreen
+                                          : widget.color == 'Colors.pinkAccent'
+                                              ? Colors.pinkAccent
+                                              : widget.color == 'Colors.cyan'
+                                                  ? Colors.cyan
+                                                  : widget.color ==
+                                                          'Colors.purple'
+                                                      ? Colors.purple
+                                                      : Colors.black,
+                  fontSize: 20,
+                  fontWeight: FontWeight.w900,
+                ),
+              ),
+            )

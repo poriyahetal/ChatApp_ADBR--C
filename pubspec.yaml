@@ -1,0 +1,204 @@
+name: flutter_template
+description: A new Flutter project.
+
+publish_to: "none"
+
+version: 1.0.8+12
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  agora_rtc_engine: ^5.3.0
+  animated_text_kit: ^4.2.1
+  any_link_preview: ^2.0.6
+  audioplayers: ^0.20.1
+  auto_route: ^4.2.1
+  auto_size_text: ^3.0.0
+  awesome_notifications: ^0.7.0-beta.4
+  azblob: ^2.0.0
+  badges: ^2.0.3
+  bottom_sheet: ^3.1.1
+  bubble: null
+  cached_network_image: ^3.2.0
+  camera: ^0.10.0
+  camera_deep_ar: ^0.0.2
+  carousel_slider: ^4.1.1
+  chat_pickers:
+    git:
+      url: https://github.com/kiburtemesgen/chat_pickers.git
+      ref: migrate_to_nullsafety
+  cloud_firestore: ^3.1.4
+  collection: ^1.15.0
+  community_material_icon: ^5.9.55
+  connectivity_plus: ^2.3.2
+  contacts_service: ^0.6.1
+  country_calling_code_picker: ^2.0.0
+  country_code_picker: ^2.0.2
+  cupertino_icons: ^1.0.3
+  dart_now_time_filename: ^2.0.2
+  dartz: ^0.10.0-nullsafety.2
+  dio: ^4.0.4
+  drag_select_grid_view: ^0.5.1
+  emoji_picker_flutter: ^1.0.6
+  emojis: ^0.9.9
+  equatable: ^2.0.0
+  eva_icons_flutter: ^3.0.2
+  file_icon: ^1.0.0
+  file_picker: ^4.1.3
+  firebase_app_check: ^0.0.6+3
+  firebase_auth: ^3.0.1
+  firebase_core: ^1.4.0
+  firebase_database: ^9.0.5
+  firebase_dynamic_links: ^4.0.5
+  firebase_messaging: ^12.0.1
+  firebase_storage: ^10.0.1
+  fl_chart: ^0.55.0
+  flick_video_player: null
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^7.3.3
+  flutter_chat_bubble: ^2.0.0
+  flutter_colorpicker: ^1.0.3
+  flutter_contact: ^0.9.1+7
+  flutter_iconly: ^1.0.2
+  flutter_image_compress: ^1.1.0
+  flutter_linkify: ^5.0.2
+  flutter_local_auth_invisible: ^2.2.0
+  flutter_local_notifications: ^9.1.2
+  flutter_localizations:
+    sdk: flutter
+  flutter_otp_text_field: ^1.0.0
+  flutter_parsed_text: ^2.2.1
+  flutter_secure_storage: ^5.0.2
+  flutter_slidable: ^2.0.0
+  flutter_sound: ^9.1.9
+  flutter_staggered_grid_view: ^0.6.2
+  flutter_svg: ^1.0.0
+  flutter_video_info: ^1.2.0
+  flutter_windowmanager: ^0.2.0
+  fluttertoast: ^8.0.7
+  font_awesome_flutter: ^10.1.0
+  freezed_annotation: ^2.1.0
+  gallery_saver: ^2.3.2
+  get_it: ^7.1.3
+  get_time_ago: ^1.1.3
+  get: ^4.6.5
+  giphy_get: ^3.1.0
+  giphy_picker: ^2.0.0
+  google_fonts: ^3.0.1
+  hive: ^2.1.0
+  hive_flutter: ^1.1.0
+  http: ^0.13.4
+  image_cropper: ^2.0.3
+  image_picker: ^0.8.5+3
+  image_size_getter: ^2.1.2
+  injectable: ^1.4.1
+  internet_connection_checker: ^0.0.1+2
+  intl: ^0.17.0
+  line_icons: ^2.0.1
+  lottie: ^1.3.0
+  mask_text_input_formatter: ^2.3.0
+  matrix_gesture_detector: ^0.2.0-nullsafety.1
+  modal_bottom_sheet: ^2.0.0
+  move_to_background: ^1.0.2
+  open_file: ^3.2.1
+  path: ^1.8.0
+  path_provider: ^2.0.8
+  percent_indicator: ^4.0.0
+  permission_handler: ^8.2.5
+  photo_manager: ^2.0.6
+  photo_view: ^0.14.0
+  pin_input_text_field: ^4.1.1
+  preload_page_view: ^0.1.6
+  provider: ^6.0.0
+  proximity_sensor: null
+  qr_flutter: ^4.0.0
+  restart_app: ^1.1.0
+  rounded_loading_button: ^2.0.9
+  rxdart: ^0.27.2
+  screenshot: ^1.2.3
+  scribble: ^0.4.0
+  share_plus: ^4.0.3
+  shimmer: ^2.0.0
+  simple_pip_mode: ^0.7.1
+  sizer: ^2.0.15
+  smart_auth: ^1.0.5
+  sqflite: ^2.0.0+4
+  step_progress_indicator: ^1.0.1
+  stop_watch_timer: null
+  story_creator: ^1.0.0
+  story_view: ^0.13.2
+  swipe_to: ^1.0.2
+  table_calendar: ^3.0.1
+  tapioca:
+    git:
+      url: https://github.com/mhdaslam790/tapioca.git
+      ref: master
+  timeago: ^3.1.0
+  translator: ^0.1.7
+  url_launcher: ^6.0.9
+  vibration: ^1.7.4-nullsafety.0
+  video_player: ^2.2.11
+  video_thumbnail: ^0.5.0
+  video_trimmer: ^1.1.3
+  device_preview: ^1.1.0
+  flutter_screenutil: ^5.5.3+2
+  chewie: ^1.3.4
+  better_player: ^0.0.83
+
+
+dev_dependencies:
+  auto_route_generator: ^4.2.0
+  build_runner: ^2.1.10
+  flutter_test:
+    sdk: flutter
+  freezed: ^2.1.0+1
+  hive_generator: ^1.1.2
+  injectable_generator: ^1.4.1
+  integration_test:
+    sdk: flutter
+  json_serializable: ^6.1.1
+  lint: ^1.5.3
+
+dependency_overrides:
+  flutter_contact:
+    git:
+      url: https://github.com/deepak786/flutter_contact
+      ref: agendaboa_patch
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/images/applogo.png
+    - assets/images/kahochat.png
+    - assets/images/kahochat_tp.png
+    - assets/images/namaste.png
+    - assets/images/kahochat_rectangle.png
+    - assets/icons/
+    - lang/as.json
+    - lang/bn.json
+    - lang/en.json
+    - lang/gu.json
+    - lang/hi.json
+    - lang/kn.json
+    - lang/ml.json
+    - lang/mr.json
+    - lang/pa.json
+    - lang/ta.json
+    - lang/te.json
+    - lang/ur.json
+    - assets/sounds/
+    - assets/sounds/ringtone.mp3
+    - assets/sounds/ring.mp3
+    - assets/lottie_json/
+    - assets/
+    - assets/filters/
+    - assets/filters/img/
+    - assets/masks/
+    - assets/masks/img/
+# flutter_native_splash:
+#   image: assets/images/applogo.png
+#   color: "000000"

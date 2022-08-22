@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "1072996891608",
+    "firebase_url": "https://noble-kingdom-318209-default-rtdb.firebaseio.com",
+    "project_id": "noble-kingdom-318209",
+    "storage_bucket": "noble-kingdom-318209.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072996891608:android:ea072eaec35ff610f690ad",
+        "android_client_info": {
+          "package_name": "com.chat.kahochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072996891608-1ilopur2je6ahfm29fffga3bvfd0iug2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chat.kahochat",
+            "certificate_hash": "d3e0ba7386f8b0144113200f1876365bb341ad04"
+          }
+        },
+        {
+          "client_id": "1072996891608-4qnsd5umro15k1940v214cf08l0ja1tn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chat.kahochat",
+            "certificate_hash": "829066f92ceca4bf87aaa44aa5c74d7d5fe0b4da"
+          }
+        },
+        {
+          "client_id": "1072996891608-51uqdnad4ddg8bol7276sld2buefitpd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chat.kahochat",
+            "certificate_hash": "45f601004c0802608a4de9d88888ba63182602f5"
+          }
+        },
+        {
+          "client_id": "1072996891608-bih3tk8jo12qkfmqh2bo16l2g6if7ma3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chat.kahochat",
+            "certificate_hash": "a2da8f79b4e4f042aa4dcd26d99321b9f84328b6"
+          }
+        },
+        {
+          "client_id": "1072996891608-fbceekvmopbs6nqadfbi2egnituo2gb3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chat.kahochat",
+            "certificate_hash": "59bbea61beac0eaff5963d35e6a57ec608b1e28d"
+          }
+        },
+        {
+          "client_id": "1072996891608-fel6iqprgr8afqu1ert8ah7rnnig2fl9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chat.kahochat",
+            "certificate_hash": "cf86020af06abb0cd1e430a656bdcf7e3456e2fe"
+          }
+        },
+        {
+          "client_id": "1072996891608-hsssikvil21e74anlp0qarjim2ekn76e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chat.kahochat",
+            "certificate_hash": "5f688e684c1aea7b79779d4df2f08116e3ba4962"
+          }
+        },
+        {
+          "client_id": "1072996891608-hvm5hjlkcjc5kkosieei3s2a5o0jm93n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chat.kahochat",
+            "certificate_hash": "056627cdcb3366ea81f7abefb665f0e2cf4b7e4f"
+          }
+        },
+        {
+          "client_id": "1072996891608-irmrirujnfipqqge792hhnulfik3grao.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chat.kahochat",
+            "certificate_hash": "2d7e69673cb3bafc5582d7007d8ebc5513894400"
+          }
+        },
+        {
+          "client_id": "1072996891608-ivc6o62conlco1d3ea4t339uj77g1qhl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chat.kahochat",
+            "certificate_hash": "c536ad5799c41ccba7da4acd06047905199705c9"
+          }
+        },
+        {
+          "client_id": "1072996891608-oq8dcg1ohrhn4ekdo2svhuslab2qdguu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chat.kahochat",
+            "certificate_hash": "bb12ae468f96bf34b8850cf98255358a3dcfe295"
+          }
+        },
+        {
+          "client_id": "1072996891608-qrkona7o5g79icatstlb3jqsh3k992vj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chat.kahochat",
+            "certificate_hash": "a11a941ed10952fec4a6002dba6d9a5effcdfcaa"
+          }
+        },
+        {
+          "client_id": "1072996891608-38cmnds0n9ib84qnd9hu432ubo4ss0l0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2jKjlcXzTFE1w8Hzi_3gp9R62QLZiwVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072996891608-38cmnds0n9ib84qnd9hu432ubo4ss0l0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1072996891608-db17oh4rs8tkvtb5ac94mkb90eri46a9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.whatsapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
